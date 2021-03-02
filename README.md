@@ -3,7 +3,7 @@ Raspberry PI with Laser Sensor
 
 Python Script to create a Raspberry PI Laser Sensor
 
-Requires:
+# Requires:
 
 1 x Raspberry PI
 
