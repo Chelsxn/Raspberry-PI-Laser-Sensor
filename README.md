@@ -10,3 +10,6 @@ Requires:
 1 x Infrared Receiver
 
 1 x Laser
+
+
+SQL and syslog portion is optional, comment out if not needed
